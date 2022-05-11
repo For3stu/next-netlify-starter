@@ -16,7 +16,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
+# orsss
 yarn dev
 ```
 
