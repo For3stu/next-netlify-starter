@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Where is Jajko!?" />
-        <p className="Find him before he escapes...">
-          Get started by editing <code>pages/index.js</code>
+        <p className="description">
+          Find him before he escapes... 
         </p>
       </main>
 
