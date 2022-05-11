@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Find him..." />
-        <p className="description">
+        <Header title="Where is Jajko!?" />
+        <p className="Find him before he escapes...">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
